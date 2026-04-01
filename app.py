@@ -121,6 +121,10 @@ def api_me():
     user = get_current_user()
     return jsonify({"user": user})
 
+@app.route("/health")
+def health():
+    return "OK", 200
+
 
 # ─────────────────────────────────────────────
 # User Management (Admin Only)
