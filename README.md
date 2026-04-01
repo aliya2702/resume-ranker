@@ -146,7 +146,7 @@ This helps HRs make **faster, smarter, and unbiased hiring decisions**.
 
 ---
 
-## 🏆 Impact
+##  Impact
 
 - ⏱ Reduces resume screening time significantly  
 - 📊 Improves hiring accuracy  
@@ -155,13 +155,13 @@ This helps HRs make **faster, smarter, and unbiased hiring decisions**.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Aliya Kousar**  
 AI & Full Stack Developer  
 
 ---
 
-## ⭐ Final Note
+##  Final Note
 
 ResumeRank is designed as a **production-ready intelligent hiring assistant**, combining AI, NLP, and real-world constraints to solve a critical problem in recruitment.
