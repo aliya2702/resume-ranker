@@ -1,0 +1,556 @@
+{
+  "usr_002": [
+    {
+      "session_id": "sess_2422c73ff306",
+      "user_id": "usr_002",
+      "user_email": "hr@resumerank.ai",
+      "created_at": "2026-04-01T14:18:40.587926",
+      "jd_preview": "We are looking for a Frontend Developer with strong skills in React, JavaScript, HTML, and CSS. The candidate should hav\u2026",
+      "job_description": "We are looking for a Frontend Developer with strong skills in React, JavaScript, HTML, and CSS. The candidate should have experience building responsive web applications and working with REST APIs. Knowledge of Git, debugging, and performance optimization is required. Familiarity with modern frontend tools like Webpack or Vite is a plus. The ideal candidate should have at least 1-2 years of experience and good problem-solving skills.",
+      "total_processed": 3,
+      "skipped_count": 0,
+      "skipped": [],
+      "top_candidate": "Rahulsharmaes",
+      "top_score": 43,
+      "avg_score": 24.0,
+      "ranked_candidates": [
+        {
+          "name": "Rahulsharmaes",
+          "filename": "rahulsharmaes.pdf",
+          "score": 43,
+          "tfidf_score": 20.3,
+          "skill_score": 71.4,
+          "matched_skills": {
+            "Languages": [
+              "javascript"
+            ],
+            "Frontend Frameworks": [
+              "react",
+              "react.js"
+            ],
+            "Styling": [
+              "css"
+            ],
+            "Backend & APIs": [
+              "rest"
+            ],
+            "Version Control & DevOps": [
+              "git"
+            ]
+          },
+          "missing_skills": {
+            "Build Tools": [
+              "webpack",
+              "vite"
+            ]
+          },
+          "explanation": "Partial match. Demonstrates proficiency in: javascript, react, react.js, css, rest, git. Gaps identified in: webpack, vite.",
+          "warning": "",
+          "rank": 1,
+          "resume_strength": {
+            "overall": 38,
+            "clarity": 30,
+            "structure": 75,
+            "impact": 0,
+            "detail_level": 65,
+            "notes": [
+              "Few impact statements detected. Add metrics: 'Reduced load time by 40%'.",
+              "Resume appears very short. Add more detail about experience and projects."
+            ]
+          },
+          "risk_flags": [
+            "\u26a0\ufe0f Very brief resume \u2014 limited information available for assessment."
+          ],
+          "transferable_skills": [],
+          "cluster": "Frontend & UI Specialist",
+          "hidden_gem": false,
+          "gem_reason": "",
+          "stability": "high",
+          "stability_note": "Clear separation from adjacent candidates."
+        },
+        {
+          "name": "Illuru Aliya Kousar Styled Resume",
+          "filename": "Illuru_Aliya_Kousar_Styled_Resume.pdf",
+          "score": 15,
+          "tfidf_score": 4.6,
+          "skill_score": 28.6,
+          "matched_skills": {
+            "Languages": [
+              "javascript",
+              "python"
+            ],
+            "Styling": [
+              "css"
+            ],
+            "Soft Skills & Experience": [
+              "communication",
+              "problem solving"
+            ]
+          },
+          "missing_skills": {
+            "Frontend Frameworks": [
+              "react"
+            ],
+            "Build Tools": [
+              "webpack",
+              "vite"
+            ],
+            "Backend & APIs": [
+              "rest"
+            ],
+            "Version Control & DevOps": [
+              "git"
+            ]
+          },
+          "explanation": "Weak match. Demonstrates proficiency in: javascript, python, css, communication, problem solving. Gaps identified in: react, webpack, vite, rest.",
+          "warning": "",
+          "rank": 2,
+          "resume_strength": {
+            "overall": 46,
+            "clarity": 30,
+            "structure": 60,
+            "impact": 24,
+            "detail_level": 95,
+            "notes": [
+              "Few impact statements detected. Add metrics: 'Reduced load time by 40%'.",
+              "Resume appears very short. Add more detail about experience and projects."
+            ]
+          },
+          "risk_flags": [
+            "\u26a0\ufe0f Very brief resume \u2014 limited information available for assessment.",
+            "\u26a0\ufe0f No email address detected in resume."
+          ],
+          "transferable_skills": [],
+          "cluster": "Frontend & UI Specialist",
+          "hidden_gem": false,
+          "gem_reason": "",
+          "stability": "medium",
+          "stability_note": "Moderate score gap \u2014 ranking is likely stable."
+        },
+        {
+          "name": "Illuru Aliya Kousar Modern Professional Resume",
+          "filename": "Illuru_Aliya_Kousar_Modern_Professional_Resume.pdf",
+          "score": 14,
+          "tfidf_score": 2.9,
+          "skill_score": 28.6,
+          "matched_skills": {
+            "Languages": [
+              "javascript",
+              "python"
+            ],
+            "Styling": [
+              "css"
+            ],
+            "Soft Skills & Experience": [
+              "communication",
+              "problem solving"
+            ]
+          },
+          "missing_skills": {
+            "Frontend Frameworks": [
+              "react"
+            ],
+            "Build Tools": [
+              "webpack",
+              "vite"
+            ],
+            "Backend & APIs": [
+              "rest"
+            ],
+            "Version Control & DevOps": [
+              "git"
+            ]
+          },
+          "explanation": "Weak match. Demonstrates proficiency in: javascript, python, css, communication, problem solving. Gaps identified in: react, webpack, vite, rest.",
+          "warning": "",
+          "rank": 3,
+          "resume_strength": {
+            "overall": 31,
+            "clarity": 30,
+            "structure": 60,
+            "impact": 0,
+            "detail_level": 50,
+            "notes": [
+              "Few impact statements detected. Add metrics: 'Reduced load time by 40%'.",
+              "Resume appears very short. Add more detail about experience and projects.",
+              "Consider using bullet points to list responsibilities and achievements clearly."
+            ]
+          },
+          "risk_flags": [
+            "\u26a0\ufe0f Very brief resume \u2014 limited information available for assessment."
+          ],
+          "transferable_skills": [],
+          "cluster": "Frontend & UI Specialist",
+          "hidden_gem": false,
+          "gem_reason": "",
+          "stability": "medium",
+          "stability_note": "Moderate score gap \u2014 ranking is likely stable."
+        }
+      ],
+      "insights": {
+        "talent_pool": {
+          "total_candidates": 3,
+          "avg_score": 24.0,
+          "max_score": 43,
+          "min_score": 14,
+          "score_bands": {
+            "excellent_80_plus": 0,
+            "strong_65_79": 0,
+            "moderate_45_64": 0,
+            "weak_below_45": 3
+          },
+          "top_skills": [
+            {
+              "skill": "javascript",
+              "count": 3,
+              "pct": 100
+            },
+            {
+              "skill": "css",
+              "count": 3,
+              "pct": 100
+            },
+            {
+              "skill": "python",
+              "count": 2,
+              "pct": 67
+            },
+            {
+              "skill": "communication",
+              "count": 2,
+              "pct": 67
+            },
+            {
+              "skill": "problem solving",
+              "count": 2,
+              "pct": 67
+            },
+            {
+              "skill": "react",
+              "count": 1,
+              "pct": 33
+            },
+            {
+              "skill": "react.js",
+              "count": 1,
+              "pct": 33
+            },
+            {
+              "skill": "rest",
+              "count": 1,
+              "pct": 33
+            }
+          ],
+          "rare_required_skills": [
+            "webpack",
+            "vite"
+          ],
+          "jd_skill_coverage_pct": 71.4,
+          "hidden_gems_count": 0
+        },
+        "jd_quality": {
+          "skill_count": 7,
+          "word_count": 66,
+          "issues": [
+            {
+              "severity": "medium",
+              "message": "Job description is very short. Candidates may not understand role expectations."
+            },
+            {
+              "severity": "low",
+              "message": "No team/soft skills mentioned. Top candidates often value culture fit signals."
+            }
+          ],
+          "suggestions": [
+            "Add responsibilities, team context, and expected outcomes (aim for 200+ words).",
+            "Add a line about team culture, work style, or collaboration expectations."
+          ],
+          "quality_score": 85
+        },
+        "clusters": {
+          "Frontend & UI Specialist": [
+            "Rahulsharmaes",
+            "Illuru Aliya Kousar Styled Resume",
+            "Illuru Aliya Kousar Modern Professional Resume"
+          ]
+        }
+      }
+    },
+    {
+      "session_id": "sess_33a0a5bb6c4a",
+      "user_id": "usr_002",
+      "user_email": "hr@resumerank.ai",
+      "created_at": "2026-04-01T14:14:19.070188",
+      "jd_preview": "We are looking for a Frontend Developer with strong skills in React, JavaScript, HTML, and CSS. The candidate should hav\u2026",
+      "job_description": "We are looking for a Frontend Developer with strong skills in React, JavaScript, HTML, and CSS. The candidate should have experience building responsive web applications and working with REST APIs. Knowledge of Git, debugging, and performance optimization is required. Familiarity with modern frontend tools like Webpack or Vite is a plus. The ideal candidate should have at least 1-2 years of experience and good problem-solving skills.",
+      "total_processed": 3,
+      "skipped_count": 0,
+      "skipped": [],
+      "top_candidate": "Rahulsharmaes",
+      "top_score": 43,
+      "avg_score": 24.0,
+      "ranked_candidates": [
+        {
+          "name": "Rahulsharmaes",
+          "filename": "rahulsharmaes.pdf",
+          "score": 43,
+          "tfidf_score": 20.3,
+          "skill_score": 71.4,
+          "matched_skills": {
+            "Languages": [
+              "javascript"
+            ],
+            "Frontend Frameworks": [
+              "react",
+              "react.js"
+            ],
+            "Styling": [
+              "css"
+            ],
+            "Backend & APIs": [
+              "rest"
+            ],
+            "Version Control & DevOps": [
+              "git"
+            ]
+          },
+          "missing_skills": {
+            "Build Tools": [
+              "webpack",
+              "vite"
+            ]
+          },
+          "explanation": "Partial match. Demonstrates proficiency in: javascript, react, react.js, css, rest, git. Gaps identified in: webpack, vite.",
+          "warning": "",
+          "rank": 1,
+          "resume_strength": {
+            "overall": 38,
+            "clarity": 30,
+            "structure": 75,
+            "impact": 0,
+            "detail_level": 65,
+            "notes": [
+              "Few impact statements detected. Add metrics: 'Reduced load time by 40%'.",
+              "Resume appears very short. Add more detail about experience and projects."
+            ]
+          },
+          "risk_flags": [
+            "\u26a0\ufe0f Very brief resume \u2014 limited information available for assessment."
+          ],
+          "transferable_skills": [],
+          "cluster": "Frontend & UI Specialist",
+          "hidden_gem": false,
+          "gem_reason": "",
+          "stability": "high",
+          "stability_note": "Clear separation from adjacent candidates."
+        },
+        {
+          "name": "Illuru Aliya Kousar Styled Resume",
+          "filename": "Illuru_Aliya_Kousar_Styled_Resume.pdf",
+          "score": 15,
+          "tfidf_score": 4.6,
+          "skill_score": 28.6,
+          "matched_skills": {
+            "Languages": [
+              "javascript",
+              "python"
+            ],
+            "Styling": [
+              "css"
+            ],
+            "Soft Skills & Experience": [
+              "communication",
+              "problem solving"
+            ]
+          },
+          "missing_skills": {
+            "Frontend Frameworks": [
+              "react"
+            ],
+            "Build Tools": [
+              "webpack",
+              "vite"
+            ],
+            "Backend & APIs": [
+              "rest"
+            ],
+            "Version Control & DevOps": [
+              "git"
+            ]
+          },
+          "explanation": "Weak match. Demonstrates proficiency in: javascript, python, css, communication, problem solving. Gaps identified in: react, webpack, vite, rest.",
+          "warning": "",
+          "rank": 2,
+          "resume_strength": {
+            "overall": 46,
+            "clarity": 30,
+            "structure": 60,
+            "impact": 24,
+            "detail_level": 95,
+            "notes": [
+              "Few impact statements detected. Add metrics: 'Reduced load time by 40%'.",
+              "Resume appears very short. Add more detail about experience and projects."
+            ]
+          },
+          "risk_flags": [
+            "\u26a0\ufe0f Very brief resume \u2014 limited information available for assessment.",
+            "\u26a0\ufe0f No email address detected in resume."
+          ],
+          "transferable_skills": [],
+          "cluster": "Frontend & UI Specialist",
+          "hidden_gem": false,
+          "gem_reason": "",
+          "stability": "medium",
+          "stability_note": "Moderate score gap \u2014 ranking is likely stable."
+        },
+        {
+          "name": "Illuru Aliya Kousar Modern Professional Resume",
+          "filename": "Illuru_Aliya_Kousar_Modern_Professional_Resume.pdf",
+          "score": 14,
+          "tfidf_score": 2.9,
+          "skill_score": 28.6,
+          "matched_skills": {
+            "Languages": [
+              "javascript",
+              "python"
+            ],
+            "Styling": [
+              "css"
+            ],
+            "Soft Skills & Experience": [
+              "communication",
+              "problem solving"
+            ]
+          },
+          "missing_skills": {
+            "Frontend Frameworks": [
+              "react"
+            ],
+            "Build Tools": [
+              "webpack",
+              "vite"
+            ],
+            "Backend & APIs": [
+              "rest"
+            ],
+            "Version Control & DevOps": [
+              "git"
+            ]
+          },
+          "explanation": "Weak match. Demonstrates proficiency in: javascript, python, css, communication, problem solving. Gaps identified in: react, webpack, vite, rest.",
+          "warning": "",
+          "rank": 3,
+          "resume_strength": {
+            "overall": 31,
+            "clarity": 30,
+            "structure": 60,
+            "impact": 0,
+            "detail_level": 50,
+            "notes": [
+              "Few impact statements detected. Add metrics: 'Reduced load time by 40%'.",
+              "Resume appears very short. Add more detail about experience and projects.",
+              "Consider using bullet points to list responsibilities and achievements clearly."
+            ]
+          },
+          "risk_flags": [
+            "\u26a0\ufe0f Very brief resume \u2014 limited information available for assessment."
+          ],
+          "transferable_skills": [],
+          "cluster": "Frontend & UI Specialist",
+          "hidden_gem": false,
+          "gem_reason": "",
+          "stability": "medium",
+          "stability_note": "Moderate score gap \u2014 ranking is likely stable."
+        }
+      ],
+      "insights": {
+        "talent_pool": {
+          "total_candidates": 3,
+          "avg_score": 24.0,
+          "max_score": 43,
+          "min_score": 14,
+          "score_bands": {
+            "excellent_80_plus": 0,
+            "strong_65_79": 0,
+            "moderate_45_64": 0,
+            "weak_below_45": 3
+          },
+          "top_skills": [
+            {
+              "skill": "javascript",
+              "count": 3,
+              "pct": 100
+            },
+            {
+              "skill": "css",
+              "count": 3,
+              "pct": 100
+            },
+            {
+              "skill": "python",
+              "count": 2,
+              "pct": 67
+            },
+            {
+              "skill": "communication",
+              "count": 2,
+              "pct": 67
+            },
+            {
+              "skill": "problem solving",
+              "count": 2,
+              "pct": 67
+            },
+            {
+              "skill": "react",
+              "count": 1,
+              "pct": 33
+            },
+            {
+              "skill": "react.js",
+              "count": 1,
+              "pct": 33
+            },
+            {
+              "skill": "rest",
+              "count": 1,
+              "pct": 33
+            }
+          ],
+          "rare_required_skills": [
+            "webpack",
+            "vite"
+          ],
+          "jd_skill_coverage_pct": 71.4,
+          "hidden_gems_count": 0
+        },
+        "jd_quality": {
+          "skill_count": 7,
+          "word_count": 66,
+          "issues": [
+            {
+              "severity": "medium",
+              "message": "Job description is very short. Candidates may not understand role expectations."
+            },
+            {
+              "severity": "low",
+              "message": "No team/soft skills mentioned. Top candidates often value culture fit signals."
+            }
+          ],
+          "suggestions": [
+            "Add responsibilities, team context, and expected outcomes (aim for 200+ words).",
+            "Add a line about team culture, work style, or collaboration expectations."
+          ],
+          "quality_score": 85
+        },
+        "clusters": {
+          "Frontend & UI Specialist": [
+            "Rahulsharmaes",
+            "Illuru Aliya Kousar Styled Resume",
+            "Illuru Aliya Kousar Modern Professional Resume"
+          ]
+        }
+      }
+    }
+  ]
+}
