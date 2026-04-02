@@ -66,6 +66,41 @@ This helps HRs make **faster, smarter, and unbiased hiring decisions**.
 - Secure login with role-based access  
 
 ---
+## 🛠️ Setup Instructions (Run Locally)
+
+### 1. Clone the Repository
+git clone https://github.com/aliya2702/resume-ranker.git  
+cd resume-ranker  
+
+### 2. Create Virtual Environment (Recommended)
+python -m venv venv  
+venv\Scripts\activate   (for Windows)
+
+### 3. Install Dependencies
+pip install -r requirements.txt  
+## 4. Environment Variables
+
+No external API keys are required for this project.
+
+👉 The system uses local NLP techniques (TF-IDF and Cosine Similarity) and works completely offline.
+
+👉 If you want to extend the project in future with Generative AI (like OpenAI), you can add an API key here.
+
+---
+
+### 5. Run the Application
+
+```bash
+python app.py
+```
+
+---
+
+### 6. Open in Browser
+
+```
+http://127.0.0.1:5000/
+---
 
 ## 🧠 How It Works
 
