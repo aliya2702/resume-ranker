@@ -2,6 +2,7 @@
 
  Live Demo: https://resume-ranker-8ozo.onrender.com  
  GitHub Repo: https://github.com/aliya2702/resume-ranker  
+ Demo Video: https://drive.google.com/file/d/1vWLzrWHyg-BdLgezwJ_-ZPc9ESS5bENB/view?usp=drive_link
 
 ---
 
