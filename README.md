@@ -90,15 +90,14 @@ No external API keys are required for this project.
 
 ### 5. Run the Application
 
-```bash
+bash
 python app.py
-```
 
 ---
 
 ### 6. Open in Browser
 
-```
+
 http://127.0.0.1:5000/
 ---
 
