@@ -135,14 +135,14 @@ http://127.0.0.1:5000/
 
 ---
 
-## 📥 System Inputs
+##  System Inputs
 
 - Job Description (text)
 - Resume PDFs (multiple files)
 
 ---
 
-## 📏 Constraints
+##  Constraints
 
 - Only PDF files allowed  
 - Max 30 resumes per upload  
@@ -151,7 +151,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## ⚠️ Edge Case Handling
+## Edge Case Handling
 
 - Skips empty or corrupted resumes  
 - Detects duplicate resumes  
@@ -161,7 +161,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## ❌ Failure Handling
+##  Failure Handling
 
 - Returns clear error messages for invalid inputs  
 - Skips failed resume processing without crashing  
@@ -170,7 +170,7 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Use advanced LLMs for semantic matching  
 - Add real-time collaboration for HR teams  
