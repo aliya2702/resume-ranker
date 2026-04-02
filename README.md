@@ -1,7 +1,7 @@
 # 🏆 ResumeRank — AI-Powered Resume Screening System
 
-🚀 Live Demo: https://resume-ranker-8ozo.onrender.com  
-💻 GitHub Repo: https://github.com/aliya2702/resume-ranker  
+ Live Demo: https://resume-ranker-8ozo.onrender.com  
+ GitHub Repo: https://github.com/aliya2702/resume-ranker  
 
 ---
 
@@ -10,9 +10,9 @@
 Recruiters often receive hundreds of resumes for a single job opening.  
 Manually reviewing and shortlisting candidates is:
 
-- ⏱ Time-consuming  
-- ❌ Error-prone  
-- ⚖️ Subjective and biased  
+-  Time-consuming  
+- Error-prone  
+-  Subjective and biased  
 
 There is a need for an intelligent system that can **automate resume screening**, ensure **fair evaluation**, and provide **data-driven insights**.
 
@@ -33,36 +33,36 @@ This helps HRs make **faster, smarter, and unbiased hiring decisions**.
 
 ## ✨ Key Features
 
-### 🎯 Resume Ranking
+### Resume Ranking
 - Upload job description + multiple resumes  
 - AI ranks candidates based on relevance  
 
-### 📊 Skill Gap Analysis
+###  Skill Gap Analysis
 - Shows matched vs missing skills  
 - Highlights candidate weaknesses  
 
-### 🧠 Explainable AI
+###  Explainable AI
 - Provides reasoning behind each ranking  
 - Improves transparency in hiring  
 
-### 📊 Pool Insights
+### Pool Insights
 - Analyze overall candidate pool  
 - Identify trends and skill distribution  
 
-### 🧠 Candidate Clustering
+###  Candidate Clustering
 - Groups candidates into skill-based clusters  
 
-### 🎯 JD Analyzer
+###  JD Analyzer
 - Improves job descriptions using AI  
 
-### 🕐 History Tracking
+###  History Tracking
 - Stores previous hiring sessions  
 
-### 📤 Export & Sharing
+###  Export & Sharing
 - Export results as CSV  
 - Email shortlisted candidates  
 
-### 🔐 Authentication System
+### Authentication System
 - Secure login with role-based access  
 
 ---
@@ -182,10 +182,10 @@ http://127.0.0.1:5000/
 
 ##  Impact
 
-- ⏱ Reduces resume screening time significantly  
-- 📊 Improves hiring accuracy  
-- ⚖️ Minimizes bias in candidate selection  
-- 🤖 Introduces AI-driven hiring decisions  
+- Reduces resume screening time significantly  
+- Improves hiring accuracy  
+-  Minimizes bias in candidate selection  
+-  Introduces AI-driven hiring decisions  
 
 ---
 
