@@ -86,7 +86,7 @@ No external API keys are required for this project.
 
 👉 If you want to extend the project in future with Generative AI (like OpenAI), you can add an API key here.
 
----
+
 
 ### 5. Run the Application
 
